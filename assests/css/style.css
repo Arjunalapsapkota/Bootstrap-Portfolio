@@ -1,6 +1,7 @@
-.align-center{
-    display:flex;justify-content:center;align-items:center;
+h3{
+    color:#4aaaa5;
 }
+
 
 a{
     text-decoration: none;
@@ -9,4 +10,27 @@ a{
 
 a:hover{
     text-decoration: none;
+}
+hr{
+   
+    height:10px;
+}
+.responsive{
+    width:100%;
+    height:auto;
+    padding-top:10px;
+    
+}
+
+.align-center{
+    display:flex;justify-content:center;align-items:center;
+}
+.col-sm-6{
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+ 
+}
+img{
+    float: left;
 }
